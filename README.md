@@ -1,6 +1,8 @@
 # MIIVsem
 Model Implied Instrumental Variable (MIIV) Estimation of Structural Equation Models Use miive (MIIVsem) With (In) R Software
 
+https://www.youtube.com/watch?v=M-KlGCN8q6A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
